@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sdafdaffhello dear
+=======
+
+>>>>>>> brn1
